@@ -1,0 +1,5 @@
+SameAuthor(Author_blum_a_,Author_blum_a_)
+SameAuthor(Author_blum_a_,Author_a_blum_)
+SameAuthor(Author_blum_a_,Author_avrim_blum_)
+SameAuthor(Author_a_blum_,Author_blum_a_)
+SameAuthor(Author_a_blum_,Author_a_blum_)

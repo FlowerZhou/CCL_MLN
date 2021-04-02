@@ -1,0 +1,6 @@
+Cancer(Alex)
+!Cancer(Douglas)
+!Cancer(Nixon)
+Friends(Alex,Nixon)
+Smokes(Alex)
+

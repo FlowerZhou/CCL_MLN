@@ -1,0 +1,12 @@
+
+
+
+// predicate declarations
+Cancer(person)
+Friends(person,person)
+Smokes(person)
+
+// formulas
+1.000000    !Smokes(a1) v Cancer(a1)
+2.000000    !Friends(a1,a2) v !Smokes(a1) v Smokes(a2)
+2.000000    !Friends(a1,a2) v !Smokes(a2) v Smokes(a1)

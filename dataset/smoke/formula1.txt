@@ -1,0 +1,3 @@
+1 !Smokes(a1) v Cancer(a1)
+2 !Friends(a1,a2) v !Smokes(a1) v Smokes(a2)
+2 !Friends(a1,a2) v !Smokes(a2) v Smokes(a1)
